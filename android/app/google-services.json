@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524473621913",
+    "project_id": "airbus-void",
+    "storage_bucket": "airbus-void.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524473621913:android:c89c2a7eed3923f0680708",
+        "android_client_info": {
+          "package_name": "com.codesminds.airbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524473621913-d6krds1e993na99stm9ih5e73uepv8li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG7sxci21O7h2iM0_YQjK2yUFw5Zp6NQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524473621913-d6krds1e993na99stm9ih5e73uepv8li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

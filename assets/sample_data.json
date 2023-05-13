@@ -1,0 +1,823 @@
+{
+    "fabrication": [
+        {
+            "item": "tub",
+            "item id": "T101",
+            "raw material": "sheet steel",
+            "Quantity": "10 sqft",
+            "in date": "14/02/2020",
+            "out date": "21/02/2020"
+        },
+        {
+            "item": "pump",
+            "item id": "T102",
+            "raw material": "plastics",
+            "Quantity": "10 kg",
+            "in date": "16/02/2020",
+            "out date": "20/02/2020"
+        },
+        {
+            "item": "spin tub",
+            "item id": "T103",
+            "raw material": "stainless steel",
+            "Quantity": "5 kg/m3",
+            "in date": "27/02/2020",
+            "out date": 43954
+        },
+        {
+            "item": "wash tub",
+            "item id": "T104",
+            "raw material": "(enameling iron) Porcelain coating",
+            "Quantity": "24 gauge",
+            "in date": "27/02/2020",
+            "out date": 43892
+        },
+        {
+            "item": "balance ring",
+            "item id": "T105",
+            "raw material": "plastics",
+            "Quantity": "3 kg ",
+            "in date": "16/03/2020",
+            "out date": "21/03/2020"
+        },
+        {
+            "item": "transmission gears",
+            "item id": "T107",
+            "raw material": "cast aluminum",
+            "Quantity": "ingots—20",
+            "in date": "26/03/2020",
+            "out date": 44078
+        },
+        {
+            "item": "plastic brackets",
+            "item id": "T108",
+            "raw material": "plastics",
+            "Quantity": "2 kg",
+            "in date": 44047,
+            "out date": 44169
+        },
+        {
+            "item": "tub",
+            "item id": "T109",
+            "raw material": "sheet steel",
+            "Quantity": "10 sqft",
+            "in date": "14/02/2020",
+            "out date": "21/02/2020"
+        },
+        {
+            "item": "pump",
+            "item id": "T110",
+            "raw material": "plastics",
+            "Quantity": "10 kg",
+            "in date": "16/02/2020",
+            "out date": "20/02/2020"
+        },
+        {
+            "item": "spin tub",
+            "item id": "T111",
+            "raw material": "steel (enameling iron) Porcelain coating",
+            "Quantity": "5 kg/m3",
+            "in date": "27/02/2020",
+            "out date": 43954
+        },
+        {
+            "item": "wash tub",
+            "item id": "T112",
+            "raw material": "(enameling iron) Porcelain coating",
+            "Quantity": "24 gauge",
+            "in date": "27/02/2020",
+            "out date": 43892
+        },
+        {
+            "item": "balance ring",
+            "item id": "T113",
+            "raw material": "stainless steel",
+            "Quantity": "2 kg/m3 ",
+            "in date": "16/03/2020",
+            "out date": "21/03/2020"
+        },
+        {
+            "item": "transmission gears",
+            "item id": "T115",
+            "raw material": "cast aluminum",
+            "Quantity": "ingots—20",
+            "in date": "26/03/2020",
+            "out date": 44078
+        },
+        {
+            "item": "plastic brackets",
+            "item id": "T116",
+            "raw material": " plastic",
+            "Quantity": " 2 kg",
+            "in date": 44047,
+            "out date": 44169
+        },
+        {
+            "item": "tub",
+            "item id": "T124",
+            "raw material": "sheet steel",
+            "Quantity": "10 sqft",
+            "in date": "14/02/2020",
+            "out date": "21/02/2020"
+        },
+        {
+            "item": "pump",
+            "item id": "T117",
+            "raw material": "plastics",
+            "Quantity": "10 kg",
+            "in date": "16/02/2020",
+            "out date": "20/02/2020"
+        },
+        {
+            "item": "spin tub",
+            "item id": "T118",
+            "raw material": "stainless steel",
+            "Quantity": "5 kg/m3",
+            "in date": "27/02/2020",
+            "out date": 43954
+        },
+        {
+            "item": "wash tub",
+            "item id": "T119",
+            "raw material": "(enameling iron) Porcelain coating",
+            "Quantity": "24 gauge",
+            "in date": "27/02/2020",
+            "out date": 43892
+        },
+        {
+            "item": "balance ring",
+            "item id": "T120",
+            "raw material": "porcelain enamel",
+            "Quantity": "8 gauge",
+            "in date": "16/03/2020",
+            "out date": "21/03/2020"
+        },
+        {
+            "item": "transmission gears",
+            "item id": "T122",
+            "raw material": "cast aluminum",
+            "Quantity": "ingots—20",
+            "in date": "26/03/2020",
+            "out date": 44078
+        },
+        {
+            "item": "plastic brackets",
+            "item id": "T123",
+            "raw material": "plastics",
+            "Quantity": "3 kg",
+            "in date": 44047,
+            "out date": 44169
+        },
+        {
+            "item": "tub",
+            "item id": "T124",
+            "raw material": "sheet steel",
+            "Quantity": "10 sqft",
+            "in date": "14/02/2020",
+            "out date": 44168
+        },
+        {
+            "item": "spin tub",
+            "item id": "T125",
+            "raw material": "stainless steel",
+            "Quantity": "5 kg/m3",
+            "in date": "27/02/2020",
+            "out date": 43954
+        },
+        {
+            "item": "wash tub",
+            "item id": "T126",
+            "raw material": "(enameling iron) Porcelain coating",
+            "Quantity": "24 gauge",
+            "in date": "27/02/2020",
+            "out date": 43892
+        },
+        {
+            "item": "balance ring",
+            "item id": "T127",
+            "raw material": "porcelain enamel",
+            "Quantity": "8 gauge",
+            "in date": "16/03/2020",
+            "out date": "21/03/2020"
+        },
+        {
+            "item": "transmission gears",
+            "item id": "T128",
+            "raw material": "cast aluminum",
+            "Quantity": "ingots—20",
+            "in date": "26/03/2020",
+            "out date": 44078
+        },
+        {
+            "item": "plastic brackets",
+            "item id": "T129",
+            "raw material": "plastics",
+            "Quantity": "3 kg",
+            "in date": 44047,
+            "out date": 44169
+        },
+        {
+            "item": "tub",
+            "item id": "T130",
+            "raw material": "sheet steel",
+            "Quantity": "10 sqft",
+            "in date": "14/02/2020",
+            "out date": 44168
+        }
+    ],
+    "sub-assembly": [
+        {
+            "Assembly ID": "SAWM3031",
+            "process": "Transmission Assembly",
+            "Item ID": "T101",
+            "Machine ID": "FA_WM124",
+            "start date": 43988,
+            "end date": 44058
+        },
+        {
+            "Assembly ID": "SAWM3032",
+            "process": "Electrical Assembly",
+            "Item ID": "T102",
+            "Machine ID": "FA_WM124",
+            "start date": 43984,
+            "end date": 44050
+        },
+        {
+            "Assembly ID": "SAWM3033",
+            "process": "Transmission Assembly",
+            "Item ID": "WM125",
+            "Machine ID": "FA_WM125",
+            "start date": 43958,
+            "end date": 44022
+        },
+        {
+            "Assembly ID": "SAWM3034",
+            "process": "Electrical Assembly",
+            "Item ID": "WM126",
+            "Machine ID": "FA_WM126",
+            "start date": 43981,
+            "end date": 44016
+        },
+        {
+            "Assembly ID": "SAWM3035",
+            "process": "Tub assemblies",
+            "Item ID": "WM127",
+            "Machine ID": "FA_WM127",
+            "start date": "21/03/2020",
+            "end date": 44059
+        },
+        {
+            "Assembly ID": "SAWM3036",
+            "process": "Mechanical assembly",
+            "Item ID": "WM128",
+            "Machine ID": "FA_WM128",
+            "start date": 43905,
+            "end date": 44035
+        },
+        {
+            "Assembly ID": "SAWM3037",
+            "process": "Weld Assembly. ",
+            "Item ID": "WM129",
+            "Machine ID": "FA_WM129",
+            "start date": 43947,
+            "end date": 44055
+        },
+        {
+            "Assembly ID": "SAWM3038",
+            "process": "Spot Weld Assembly",
+            "Item ID": "WM130",
+            "Machine ID": "FA_WM130",
+            "start date": 43972,
+            "end date": 44019
+        },
+        {
+            "Assembly ID": "SAWM3039",
+            "process": "Transmission Assembly",
+            "Item ID": "WM131",
+            "Machine ID": "FA_WM131",
+            "start date": 43958,
+            "end date": 44035
+        },
+        {
+            "Assembly ID": "SAWM3040",
+            "process": "Tub assemblies",
+            "Item ID": "WM132",
+            "Machine ID": "FA_WM132",
+            "start date": 43979,
+            "end date": 44033
+        },
+        {
+            "Assembly ID": "SAWM3041",
+            "process": "Weld Assembly.",
+            "Item ID": "WM133",
+            "Machine ID": "FA_WM133",
+            "start date": 43972,
+            "end date": 44051
+        },
+        {
+            "Assembly ID": "SAWM3042",
+            "process": "Electrical Assembly",
+            "Item ID": "T111",
+            "Machine ID": "FA_WM134",
+            "start date": 43966,
+            "end date": 44047
+        },
+        {
+            "Assembly ID": "SAWM3043",
+            "process": "Mechanical assembly",
+            "Item ID": "WM135",
+            "Machine ID": "FA_WM135",
+            "start date": 43900,
+            "end date": 44024
+        },
+        {
+            "Assembly ID": "SAWM3044",
+            "process": "Spot Weld Assembly",
+            "Item ID": "WM136",
+            "Machine ID": "FA_WM136",
+            "start date": 43943,
+            "end date": 44007
+        },
+        {
+            "Assembly ID": "SAWM3045",
+            "process": "Transmission Assembly",
+            "Item ID": "WM137",
+            "Machine ID": "FA_WM137",
+            "start date": 43959,
+            "end date": 44011
+        },
+        {
+            "Assembly ID": "SAWM3046",
+            "process": "Tub assemblies",
+            "Item ID": "WM138",
+            "Machine ID": "FA_WM138",
+            "start date": 43985,
+            "end date": 44009
+        },
+        {
+            "Assembly ID": "SAWM3047",
+            "process": "Weld Assembly.",
+            "Item ID": "WM139",
+            "Machine ID": "FA_WM139",
+            "start date": 43951,
+            "end date": 44028
+        },
+        {
+            "Assembly ID": "SAWM3048",
+            "process": "Electrical Assembly",
+            "Item ID": "WM140",
+            "Machine ID": "FA_WM140",
+            "start date": 43997,
+            "end date": 44037
+        },
+        {
+            "Assembly ID": "SAWM3049",
+            "process": "Mechanical assembly",
+            "Item ID": "WM141",
+            "Machine ID": "FA_WM141",
+            "start date": 43950,
+            "end date": 44020
+        },
+        {
+            "Assembly ID": "SAWM3050",
+            "process": "Spot Weld Assembly",
+            "Item ID": "WM142",
+            "Machine ID": "FA_WM142",
+            "start date": 43989,
+            "end date": 44044
+        },
+        {
+            "Assembly ID": "SAWM3051",
+            "process": "Transmission Assembly",
+            "Item ID": "WM143",
+            "Machine ID": "FA_WM143",
+            "start date": 43958,
+            "end date": 44009
+        },
+        {
+            "Assembly ID": "SAWM3052",
+            "process": "Tub assemblies",
+            "Item ID": "T118",
+            "Machine ID": "FA_WM144",
+            "start date": 43941,
+            "end date": 44030
+        },
+        {
+            "Assembly ID": "SAWM3053",
+            "process": "Weld Assembly.",
+            "Item ID": "WM145",
+            "Machine ID": "FA_WM145",
+            "start date": 43933,
+            "end date": 44012
+        },
+        {
+            "Assembly ID": "SAWM3054",
+            "process": "Electrical Assembly",
+            "Item ID": "T119",
+            "Machine ID": "FA_WM146",
+            "start date": 43940,
+            "end date": 44040
+        },
+        {
+            "Assembly ID": "SAWM3055",
+            "process": "Mechanical assembly",
+            "Item ID": "WM147",
+            "Machine ID": "FA_WM147",
+            "start date": 43959,
+            "end date": 44042
+        },
+        {
+            "Assembly ID": "SAWM3056",
+            "process": "Spot Weld Assembly",
+            "Item ID": "WM148",
+            "Machine ID": "FA_WM148",
+            "start date": 43989,
+            "end date": 44041
+        },
+        {
+            "Assembly ID": "SAWM3057",
+            "process": "Transmission Assembly",
+            "Item ID": "WM149",
+            "Machine ID": "FA_WM149",
+            "start date": 43940,
+            "end date": 44044
+        },
+        {
+            "Assembly ID": "SAWM3058",
+            "process": "Tub assemblies",
+            "Item ID": "WM150",
+            "Machine ID": "FA_WM150",
+            "start date": 43983,
+            "end date": 44026
+        },
+        {
+            "Assembly ID": "SAWM3059",
+            "process": "Weld Assembly.",
+            "Item ID": "WM151",
+            "Machine ID": "FA_WM151",
+            "start date": "15/02/2020",
+            "end date": 44029
+        },
+        {
+            "Assembly ID": "SAWM3060",
+            "process": "Electrical Assembly",
+            "Item ID": "WM152",
+            "Machine ID": "FA_WM152",
+            "start date": 43939,
+            "end date": 44027
+        },
+        {
+            "Assembly ID": "SAWM3061",
+            "process": "Mechanical assembly",
+            "Item ID": "WM153",
+            "Machine ID": "FA_WM153",
+            "start date": 43977,
+            "end date": 44018
+        },
+        {
+            "Assembly ID": "SAWM3062",
+            "process": "Spot Weld Assembly",
+            "Item ID": "WM154",
+            "Machine ID": "FA_WM154",
+            "start date": 43947,
+            "end date": 44056
+        },
+        {
+            "Assembly ID": "SAWM3063",
+            "process": "Weld Assembly.",
+            "Item ID": "WM155",
+            "Machine ID": "FA_WM155",
+            "start date": 43932,
+            "end date": 44055
+        },
+        {
+            "Assembly ID": "SAWM3064",
+            "process": "Electrical Assembly",
+            "Item ID": "WM156",
+            "Machine ID": "FA_WM156",
+            "start date": 43942,
+            "end date": 44014
+        },
+        {
+            "Assembly ID": "SAWM3065",
+            "process": "Mechanical assembly",
+            "Item ID": "WM157",
+            "Machine ID": "FA_WM157",
+            "start date": 43970,
+            "end date": 44012
+        },
+        {
+            "Assembly ID": "SAWM3066",
+            "process": "Spot Weld Assembly",
+            "Item ID": "WM158",
+            "Machine ID": "FA_WM158",
+            "start date": 43959,
+            "end date": 44039
+        },
+        {
+            "Assembly ID": "SAWM3067",
+            "process": "Transmission Assembly",
+            "Item ID": "WM159",
+            "Machine ID": "FA_WM159",
+            "start date": 43944,
+            "end date": 44024
+        },
+        {
+            "Assembly ID": "SAWM3068",
+            "process": "Tub assemblies",
+            "Item ID": "WM160",
+            "Machine ID": "FA_WM160",
+            "start date": 43973,
+            "end date": 44029
+        },
+        {
+            "Assembly ID": "SAWM3069",
+            "process": "Weld Assembly.",
+            "Item ID": "WM161",
+            "Machine ID": "FA_WM161",
+            "start date": 44137,
+            "end date": 44046
+        },
+        {
+            "Assembly ID": "SAWM3070",
+            "process": "Electrical Assembly",
+            "Item ID": "WM162",
+            "Machine ID": "FA_WM162",
+            "start date": 43932,
+            "end date": 44059
+        },
+        {
+            "Assembly ID": "SAWM3071",
+            "process": "Mechanical assembly",
+            "Item ID": "WM163",
+            "Machine ID": "FA_WM163",
+            "start date": 43950,
+            "end date": 44048
+        },
+        {
+            "Assembly ID": "SAWM3072",
+            "process": "Spot Weld Assembly",
+            "Item ID": "WM164",
+            "Machine ID": "FA_WM164",
+            "start date": 43997,
+            "end date": 44054
+        },
+        {
+            "end date": 44045
+        }
+    ],
+    "assembly": [
+        {
+            "process": "Component Integration",
+            "Process ID": "SAWM3036_FA_WM128",
+            "Machine ID": "MAII1017ECME3020079",
+            "Start Date ": 44123,
+            "END DATE": 44176
+        },
+        {
+            "process": "Electrical Testing",
+            "Process ID": "SAWM3042_FA_WM134",
+            "Machine ID": "MAII1017ECME3020080",
+            "Start Date ": 44161,
+            "END DATE": 44170
+        },
+        {
+            "process": "Complaince",
+            "Process ID": "SAWM3042_FA_WM135",
+            "Machine ID": "MAII1017ECME3020081",
+            "Start Date ": 44084,
+            "END DATE": 44229
+        },
+        {
+            "process": "Certification Standards",
+            "Process ID": "SAWM3042_FA_WM136",
+            "Machine ID": "MAII1017ECME3020082",
+            "Start Date ": 44046,
+            "END DATE": 44202
+        },
+        {
+            "process": "pivot dome",
+            "Process ID": "SAWM3042_FA_WM137",
+            "Machine ID": "MAII1017ECME3020083",
+            "Start Date ": 44122,
+            "END DATE": 44201
+        },
+        {
+            "process": "brake assembly",
+            "Process ID": "SAWM3042_FA_WM138",
+            "Machine ID": "MAII1017ECME3020084",
+            "Start Date ": 44105,
+            "END DATE": 44185
+        },
+        {
+            "process": "module",
+            "Process ID": "SAWM3042_FA_WM139",
+            "Machine ID": "MAII1017ECME3020085",
+            "Start Date ": 44027,
+            "END DATE": 44175
+        },
+        {
+            "process": "Powder Coating Process",
+            "Process ID": "SAWM3042_FA_WM140",
+            "Machine ID": "MAII1017ECME3020086",
+            "Start Date ": 44104,
+            "END DATE": 44219
+        },
+        {
+            "process": "Testing and Inspection",
+            "Process ID": "SAWM3042_FA_WM141",
+            "Machine ID": "MAII1017ECME3020087",
+            "Start Date ": 44086,
+            "END DATE": 44205
+        },
+        {
+            "process": "Component Integration",
+            "Process ID": "SAWM3042_FA_WM142",
+            "Machine ID": "MAII1017ECME3020088",
+            "Start Date ": 44163,
+            "END DATE": 44189
+        },
+        {
+            "process": "Electrical Testing",
+            "Process ID": "SAWM3042_FA_WM143",
+            "Machine ID": "MAII1017ECME3020089",
+            "Start Date ": 44123,
+            "END DATE": 44203
+        },
+        {
+            "process": "Complaince",
+            "Process ID": "SAWM3042_FA_WM144",
+            "Machine ID": "MAII1017ECME3020090",
+            "Start Date ": 44115,
+            "END DATE": 44195
+        },
+        {
+            "process": "Certification Standards",
+            "Process ID": "SAWM3042_FA_WM145",
+            "Machine ID": "MAII1017ECME3020091",
+            "Start Date ": 44133,
+            "END DATE": 44178
+        },
+        {
+            "process": "pivot dome",
+            "Process ID": "SAWM3042_FA_WM146",
+            "Machine ID": "MAII1017ECME3020092",
+            "Start Date ": 44119,
+            "END DATE": 44211
+        },
+        {
+            "process": "brake assembly",
+            "Process ID": "SAWM3042_FA_WM147",
+            "Machine ID": "MAII1017ECME3020093",
+            "Start Date ": 44030,
+            "END DATE": 44221
+        },
+        {
+            "process": "module",
+            "Process ID": "SAWM3042_FA_WM148",
+            "Machine ID": "MAII1017ECME3020094",
+            "Start Date ": 44115,
+            "END DATE": 44214
+        },
+        {
+            "process": "Powder Coating Process",
+            "Process ID": "SAWM3042_FA_WM149",
+            "Machine ID": "MAII1017ECME3020095",
+            "Start Date ": 44116,
+            "END DATE": 44229
+        },
+        {
+            "process": "Testing and Inspection",
+            "Process ID": "SAWM3042_FA_WM150",
+            "Machine ID": "MAII1017ECME3020096",
+            "Start Date ": 44163,
+            "END DATE": 44226
+        },
+        {
+            "process": "Component Integration",
+            "Process ID": "SAWM3042_FA_WM151",
+            "Machine ID": "MAII1017ECME3020097",
+            "Start Date ": 44127,
+            "END DATE": 44195
+        },
+        {
+            "process": "Electrical Testing",
+            "Process ID": "SAWM3042_FA_WM152",
+            "Machine ID": "MAII1017ECME3020098",
+            "Start Date ": 44124,
+            "END DATE": 44194
+        },
+        {
+            "process": "Complaince",
+            "Process ID": "SAWM3042_FA_WM153",
+            "Machine ID": "MAII1017ECME3020099",
+            "Start Date ": 44151,
+            "END DATE": 44209
+        },
+        {
+            "process": "Certification Standards",
+            "Process ID": "SAWM3042_FA_WM154",
+            "Machine ID": "MAII1017ECME3020100",
+            "Start Date ": 44119,
+            "END DATE": 44191
+        },
+        {
+            "process": "pivot dome",
+            "Process ID": "SAWM3042_FA_WM155",
+            "Machine ID": "MAII1017ECME3020101",
+            "Start Date ": 44128,
+            "END DATE": 44209
+        },
+        {
+            "process": "brake assembly",
+            "Process ID": "SAWM3042_FA_WM156",
+            "Machine ID": "MAII1017ECME3020102",
+            "Start Date ": 44099,
+            "END DATE": 44176
+        },
+        {
+            "process": "module",
+            "Process ID": "SAWM3042_FA_WM157",
+            "Machine ID": "MAII1017ECME3020103",
+            "Start Date ": 44158,
+            "END DATE": 44194
+        },
+        {
+            "process": "Powder Coating Process",
+            "Process ID": "SAWM3042_FA_WM158",
+            "Machine ID": "MAII1017ECME3020104",
+            "Start Date ": 44098,
+            "END DATE": 44212
+        },
+        {
+            "process": "Testing and Inspection",
+            "Process ID": "SAWM3042_FA_WM159",
+            "Machine ID": "MAII1017ECME3020105",
+            "Start Date ": 44122,
+            "END DATE": 44200
+        },
+        {
+            "process": "Component Integration",
+            "Process ID": "SAWM3042_FA_WM160",
+            "Machine ID": "MAII1017ECME3020106",
+            "Start Date ": 44109,
+            "END DATE": 44195
+        },
+        {
+            "process": "Electrical Testing",
+            "Process ID": "SAWM3042_FA_WM161",
+            "Machine ID": "MAII1017ECME3020107",
+            "Start Date ": 44145,
+            "END DATE": 44218
+        },
+        {
+            "process": "Complaince",
+            "Process ID": "SAWM3042_FA_WM162",
+            "Machine ID": "MAII1017ECME3020108",
+            "Start Date ": 44036,
+            "END DATE": 44169
+        },
+        {
+            "process": "Certification Standards",
+            "Process ID": "SAWM3042_FA_WM163",
+            "Machine ID": "MAII1017ECME3020109",
+            "Start Date ": 44071,
+            "END DATE": 44178
+        },
+        {
+            "process": "pivot dome",
+            "Process ID": "SAWM3042_FA_WM164",
+            "Machine ID": "MAII1017ECME3020110",
+            "Start Date ": 44153,
+            "END DATE": 44216
+        },
+        {
+            "process": "brake assembly",
+            "Process ID": "SAWM3042_FA_WM165",
+            "Machine ID": "MAII1017ECME3020111",
+            "Start Date ": 44118,
+            "END DATE": 44217
+        },
+        {
+            "process": "module",
+            "Process ID": "SAWM3042_FA_WM166",
+            "Machine ID": "MAII1017ECME3020112",
+            "Start Date ": 44011,
+            "END DATE": 44210
+        },
+        {
+            "process": "Powder Coating Process",
+            "Process ID": "SAWM3042_FA_WM167",
+            "Machine ID": "MAII1017ECME3020113",
+            "Start Date ": 44109,
+            "END DATE": 44191
+        },
+        {
+            "process": "Testing and Inspection",
+            "Process ID": "SAWM3042_FA_WM168",
+            "Machine ID": "MAII1017ECME3020114",
+            "Start Date ": 44124,
+            "END DATE": 44174
+        }
+    ]
+}

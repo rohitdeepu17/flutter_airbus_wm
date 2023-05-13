@@ -12,7 +12,9 @@ Features:-
 4. Dashboard Screen with different content based on the user
 
 Installation instructions:-
-app_release.apk present in the root folder can be installed by just copying to Android device or using adb install.
+- app_release.apk present in the root folder can be installed by just copying to Android device or using adb install.
+
+Note : Screen recording has also been added to see the User Experience.
 
 ## Getting Started
 

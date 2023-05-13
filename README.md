@@ -1,6 +1,15 @@
 # airbus
 
-A new Flutter project.
+Flutter Washing machine project for Airbus Hackathon.
+
+Database : NoSQL database on Firebase
+User Authentication : Email/Password using Firebase
+
+Features:-
+1. Welcome Screen
+2. Register
+3. Login
+4. Dashboard Screen with different content based on the user
 
 ## Getting Started
 

@@ -11,6 +11,9 @@ Features:-
 3. Login
 4. Dashboard Screen with different content based on the user
 
+Installation instructions:-
+app_release.apk present in the root folder can be installed by just copying to Android device or using adb install.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
